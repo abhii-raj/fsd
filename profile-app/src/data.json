@@ -1,0 +1,28 @@
+{
+    "book": [
+        {
+            "title": "three musketeers",
+            "author": "alexandre dumas",
+            "description": "A historical novel set in the 17th century.",
+            "price": "$12.99"
+        },
+        {
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "description": "A romantic novel that critiques the British landed gentry at the end of the 18th century.",
+            "price": "$8.99"
+        },
+        {
+            "title": "1984",
+            "author": "George Orwell",
+            "description": "A dystopian social science fiction novel and cautionary tale about the dangers of totalitarianism.",
+            "price": "$9.99"
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "description": "A novel about the serious issues",
+            "price": "$7.99"
+        }
+    ]
+}
